@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarcodeReaderDemo</string>
+    <string name="please_focus_camera_onto_qr_code">Please focus camera onto QR-code</string>
+</resources>
